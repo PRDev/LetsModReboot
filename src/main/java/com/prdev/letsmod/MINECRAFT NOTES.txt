@@ -1,0 +1,24 @@
+
+
+Metadata Direction:
+4 -> x-
+5 -> x+
+2 -> z-
+3 -> z+
+
+
+
+
+
+Ideas:
+- Sand Snake Block that when placed starts moving around and drops Sand/sandstoneblocks behind him. 
+  Doesnt move up blocks, used for making floors if upgraded to run in circels??
+- Bellows to increase Smelting Speed of SoapstoneFurnace
+
+
+
+Update Forge
+- change version in build.gradle file
+- gradlew clean
+- gradlew setupDecompWorkspace
+- gradlew idea
